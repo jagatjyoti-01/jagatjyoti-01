@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React , Node.js**
 
-- 📫 How to reach me **jagatjyotidash33@gmail.com**
+- 📫 How to reach me **jagatjyotidash2@gmail.com**
 
 - 📄 Know about my experiences [https://jagatjyoti-01.github.io/Portpolio-React/](https://jagatjyoti-01.github.io/Portpolio-React/)
 
